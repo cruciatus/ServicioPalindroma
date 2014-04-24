@@ -1,0 +1,2 @@
+ladon==0.8.9
+gunicorn==18.0
